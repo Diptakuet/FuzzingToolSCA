@@ -12,6 +12,31 @@ detection tools.
 </p>
 
 
+## Setup
+
+
+
+## Implementation
+
+
+```bash
+├── Systematic_fuzzing/ # Fuzzing framework with systematic fuzzing setting
+    ├── targeted_attacks/
+    ├── Tested_Detection_models/
+    ├── utils/
+    ├── framework.config
+    ├── fuzzing_framework.py
+    ├── module_tester.py
+├── Random_fuzzing/ # Fuzzing framework with random fuzzing setting
+    ├── targeted_attacks/
+    ├── Tested_Detection_models/
+    ├── utils/
+    ├── framework.config
+    ├── fuzzing_framework.py
+    ├── module_tester.py
+```
+
+
 ## Authors
 - Jonathan Tan (jona1115@iastate.edu)
 - Debopriya Roy Dipta (roydipta@iastate.edu)
