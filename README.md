@@ -11,3 +11,9 @@ detection tools.
   <img src="Framework_Diagram_V2.png" width="500" title="Fuzzing Framework">
 </p>
 
+
+## Authors
+- Jonathan Tan (jona1115@iastate.edu)
+- Debopriya Roy Dipta (roydipta@iastate.edu)
+- Berk Gulmezoglu (bgulmez@iastate.edu)
+
