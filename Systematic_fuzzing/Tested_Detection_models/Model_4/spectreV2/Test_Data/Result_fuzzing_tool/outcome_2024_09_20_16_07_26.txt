@@ -1,0 +1,96 @@
+Run Time #: ,0
+Selected Module that works: ,br_misp_retired
+Parameter: ,20000
+Number of attempts: ,4
+Time spent: ,27.675557851791382
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x55a884667008:
+COSEC{Ste?ling_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   937.1100
+[[34mINFO[0m ] Total attack code time (ms)	:  2664.1130 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1727.0030 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+937.1100,2664.1130,1727.0030
+Run Time #: ,1
+Selected Module that works: ,total_inst_retired
+Parameter: ,30
+Number of attempts: ,3
+Time spent: ,26.074350595474243
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x55fcc83ac008:
+?OSE?{St??li??_d?ta???????????????
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   274.7900
+[[34mINFO[0m ] Total attack code time (ms)	:  3175.6980 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2900.9080 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+274.7900,3175.6980,2900.9080
+Run Time #: ,2
+Selected Module that works: ,cache_misses
+Parameter: ,20000
+Number of attempts: ,2
+Time spent: ,13.692444562911987
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x559abdb76008:
+COSEC{Steali?g_d??a_w?th?Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   793.9750
+[[34mINFO[0m ] Total attack code time (ms)	:  2477.4180 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1683.4430 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+793.9750,2477.4180,1683.4430
+Run Time #: ,3
+Selected Module that works: ,total_inst_retired
+Parameter: ,40
+Number of attempts: ,4
+Time spent: ,34.55881381034851
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x5617900ed008:
+COSEC{S?eali????????????????c?re!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   222.7360
+[[34mINFO[0m ] Total attack code time (ms)	:  2526.7580 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2304.0220 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+222.7360,2526.7580,2304.0220
+Run Time #: ,4
+Selected Module that works: ,br_misp_retired
+Parameter: ,20000
+Number of attempts: ,4
+Time spent: ,27.309260606765747
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x55c8914d9008:
+??SEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   936.5690
+[[34mINFO[0m ] Total attack code time (ms)	:  2642.9370 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1706.3680 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+936.5690,2642.9370,1706.3680
+Run Time #: ,5
+Selected Module that works: ,cache_misses
+Parameter: ,20000
+Number of attempts: ,2
+Time spent: ,13.655379295349121
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x55d3dd410008:
+?OSEC?Stea?ing_?a?a_with_Spectre!?
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   800.6940
+[[34mINFO[0m ] Total attack code time (ms)	:  2520.7760 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1720.0820 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+800.6940,2520.7760,1720.0820

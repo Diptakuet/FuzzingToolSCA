@@ -1,0 +1,11 @@
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x556d1cf5f008:
+??SEC{Stealing_dat?_?ith??pe?t?e!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:     0.0000
+[[34mINFO[0m ] Total attack code time (ms)	:  1965.1690 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1965.1690 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+0.0000,1965.1690,1965.1690

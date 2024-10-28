@@ -1,0 +1,10 @@
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  5859.5760
+[[34mINFO[0m ] Total attack code time (ms)	:  6059.7440 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:   200.1680 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+5859.5760,6059.7440,200.1680

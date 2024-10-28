@@ -1,0 +1,11 @@
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x556ac2906008:
+C?SEC{Ste?li?g_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   231.1690
+[[34mINFO[0m ] Total attack code time (ms)	:  2074.6610 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1843.4920 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+231.1690,2074.6610,1843.4920
