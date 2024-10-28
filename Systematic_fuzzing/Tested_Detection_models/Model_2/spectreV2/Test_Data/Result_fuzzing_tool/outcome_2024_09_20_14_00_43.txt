@@ -1,0 +1,48 @@
+Run Time #: ,0
+Selected Module that works: ,br_misp_retired
+Parameter: ,10000
+Number of attempts: ,2
+Time spent: ,12.915313005447388
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x55929c7d1008:
+?OSEC?Stealing_data_with_Spe?tre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   495.5600
+[[34mINFO[0m ] Total attack code time (ms)	:  2288.6070 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1793.0470 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+495.5600,2288.6070,1793.0470
+Run Time #: ,1
+Selected Module that works: ,br_misp_retired
+Parameter: ,10000
+Number of attempts: ,2
+Time spent: ,12.333683013916016
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x561274e89008:
+?OSEC{Ste?ling_data?with_Spec?re!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   502.0370
+[[34mINFO[0m ] Total attack code time (ms)	:  2260.2490 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1758.2120 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+502.0370,2260.2490,1758.2120
+Run Time #: ,2
+Selected Module that works: ,total_inst_retired
+Parameter: ,10
+Number of attempts: ,1
+Time spent: ,8.311678409576416
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x5560bd98d008:
+COSEC{Stealing_data_with_Sp?ctre?}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   136.0310
+[[34mINFO[0m ] Total attack code time (ms)	:  2057.4810 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1921.4500 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+136.0310,2057.4810,1921.4500

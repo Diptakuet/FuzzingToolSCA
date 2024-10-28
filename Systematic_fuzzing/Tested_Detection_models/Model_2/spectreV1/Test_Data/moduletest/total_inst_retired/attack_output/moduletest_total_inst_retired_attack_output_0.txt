@@ -1,0 +1,12 @@
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Error: PID is not set or is non-numeric, terminating script.
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    79.2410
+[[34mINFO[0m ] Total attack code time (ms)	:  3242.7320 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  3163.4910 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+79.2410,3242.7320,3163.4910
