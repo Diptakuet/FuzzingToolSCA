@@ -1,2 +1,0 @@
-rm -f get_pid
-gcc -o get_pid get_pid.c -lpthread

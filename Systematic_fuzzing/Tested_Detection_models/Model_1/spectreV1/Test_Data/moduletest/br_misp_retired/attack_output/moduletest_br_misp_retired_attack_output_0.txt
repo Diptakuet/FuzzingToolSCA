@@ -1,9 +1,0 @@
-Stealing 34 bytes:
-COSEC{Stealing_data_with_Spectre!}
-[[34mINFO[0m ] ============================== Profilling ==============================
-[[34mINFO[0m ] Total fuzzing time (ms)		:  1977.5240
-[[34mINFO[0m ] Total attack code time (ms)	:  4779.3730 (Including fuzzing time)
-[[34mINFO[0m ] Total attack code time (ms)	:  2801.8490 (Excluding fuzzing time)
-[[34mINFO[0m ] ========================================================================
-For framework:
-1977.5240,4779.3730,2801.8490

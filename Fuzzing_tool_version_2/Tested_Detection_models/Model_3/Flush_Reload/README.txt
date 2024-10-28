@@ -1,3 +1,0 @@
-model_name=Model_3
-attack_name=Flush_Reload
-HPC_FRAMEWORK=PAPI
