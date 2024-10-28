@@ -14,7 +14,17 @@ detection tools.
 
 ## Setup
 
+Create a `framework.config` file in the same directory as the `fuzzing_framework.py` file with the following content:
 
+```config
+# SSH Configuration for the Victim's device
+ssh_host=... 
+ssh_username=...
+ssh_password=...
+model_name=... # e.g., Model_1
+attack_name=... # e.g., spectreV1
+HPC_FRAMEWORK=... # e.g., perf
+```
 
 ## Implementation
 
