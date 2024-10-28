@@ -1,0 +1,3 @@
+model_name=Model_2
+attack_name=spectreV2
+HPC_FRAMEWORK=PAPI

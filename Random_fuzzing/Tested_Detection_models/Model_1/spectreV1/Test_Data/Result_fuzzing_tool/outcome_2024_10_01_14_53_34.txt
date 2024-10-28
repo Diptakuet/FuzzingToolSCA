@@ -1,0 +1,420 @@
+Run time #: ,1
+***************************************
+Selected Modules that works: ,"['cache_misses', 'br_misp_retired']"
+Parameters: ,"[195118, 8597]"
+Attempts: ,2
+Time spent: ,35.3338520526886
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  7853.6540
+[[34mINFO[0m ] Total attack code time (ms)	: 10457.3250 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2603.6710 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     4.0164
+[[34mINFO[0m ] ========================================================================
+Run time #: ,2
+***************************************
+Selected Modules that works: ,"['br_inst_retired', 'total_inst_retired', 'cache_misses', 'br_misp_retired']"
+Parameters: ,"[21616, 12, 115028, 22545]"
+Attempts: ,4
+Time spent: ,78.68390083312988
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  7520.4470
+[[34mINFO[0m ] Total attack code time (ms)	: 10271.2880 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2750.8410 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     3.7339
+[[34mINFO[0m ] ========================================================================
+Run time #: ,3
+***************************************
+Selected Modules that works: ,"['total_inst_retired', 'br_inst_retired', 'cache_misses', 'br_misp_retired']"
+Parameters: ,"[47, 46939, 149289, 10772]"
+Attempts: ,6
+Time spent: ,119.95862102508545
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  9270.4470
+[[34mINFO[0m ] Total attack code time (ms)	: 12010.2030 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2739.7560 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     4.3837
+[[34mINFO[0m ] ========================================================================
+Run time #: ,4
+***************************************
+Selected Modules that works: ,"['br_inst_retired', 'br_misp_retired', 'total_inst_retired', 'cache_misses']"
+Parameters: ,"[44807, 22333, 62, 154273]"
+Attempts: ,1
+Time spent: ,25.390769481658936
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		: 10107.5930
+[[34mINFO[0m ] Total attack code time (ms)	: 12838.2090 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2730.6160 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     4.7016
+[[34mINFO[0m ] ========================================================================
+Run time #: ,5
+***************************************
+Selected Modules that works: ,"['br_inst_retired', 'cache_misses', 'br_misp_retired']"
+Parameters: ,"[6230, 174687, 43217]"
+Attempts: ,2
+Time spent: ,34.47481679916382
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  9478.8980
+[[34mINFO[0m ] Total attack code time (ms)	: 12058.9440 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2580.0460 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     4.6739
+[[34mINFO[0m ] ========================================================================
+Run time #: ,6
+***************************************
+Selected Modules that works: ,"['br_inst_retired', 'cache_misses', 'br_misp_retired', 'total_inst_retired']"
+Parameters: ,"[48554, 90821, 22522, 53]"
+Attempts: ,4
+Time spent: ,78.78702521324158
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  7330.0960
+[[34mINFO[0m ] Total attack code time (ms)	: 10061.4840 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2731.3880 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     3.6837
+[[34mINFO[0m ] ========================================================================
+Run time #: ,7
+***************************************
+Selected Modules that works: ,"['br_misp_retired', 'br_inst_retired']"
+Parameters: ,"[20420, 25987]"
+Attempts: ,2
+Time spent: ,25.94958257675171
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  1842.9500
+[[34mINFO[0m ] Total attack code time (ms)	:  4599.8740 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2756.9240 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     1.6685
+[[34mINFO[0m ] ========================================================================
+Run time #: ,8
+***************************************
+Selected Modules that works: ,"['br_inst_retired', 'br_misp_retired', 'total_inst_retired', 'cache_misses']"
+Parameters: ,"[43531, 46968, 24, 101592]"
+Attempts: ,13
+Time spent: ,259.24263048171997
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  9088.9810
+[[34mINFO[0m ] Total attack code time (ms)	: 11834.6460 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2745.6650 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     4.3103
+[[34mINFO[0m ] ========================================================================
+Run time #: ,9
+***************************************
+Selected Modules that works: ,"['br_inst_retired', 'cache_misses']"
+Parameters: ,"[37602, 144608]"
+Attempts: ,1
+Time spent: ,16.952244997024536
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  7083.0520
+[[34mINFO[0m ] Total attack code time (ms)	:  9761.1150 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2678.0630 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     3.6448
+[[34mINFO[0m ] ========================================================================
+Run time #: ,10
+***************************************
+Selected Modules that works: ,"['total_inst_retired', 'br_inst_retired', 'cache_misses']"
+Parameters: ,"[31, 41506, 165747]"
+Attempts: ,6
+Time spent: ,109.8248028755188
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  9019.3330
+[[34mINFO[0m ] Total attack code time (ms)	: 11813.8700 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2794.5370 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     4.2275
+[[34mINFO[0m ] ========================================================================
+Run time #: ,11
+***************************************
+Selected Modules that works: ,"['cache_misses', 'total_inst_retired', 'br_inst_retired', 'br_misp_retired']"
+Parameters: ,"[85974, 13, 33777, 48772]"
+Attempts: ,1
+Time spent: ,21.74650263786316
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  8127.7720
+[[34mINFO[0m ] Total attack code time (ms)	: 10869.6000 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2741.8280 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     3.9644
+[[34mINFO[0m ] ========================================================================
+Run time #: ,12
+***************************************
+Selected Modules that works: ,"['br_inst_retired', 'cache_misses', 'br_misp_retired']"
+Parameters: ,"[16350, 193909, 22127]"
+Attempts: ,2
+Time spent: ,35.95526623725891
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  9053.9290
+[[34mINFO[0m ] Total attack code time (ms)	: 11647.2240 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2593.2950 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     4.4913
+[[34mINFO[0m ] ========================================================================
+Run time #: ,13
+***************************************
+Selected Modules that works: ,"['cache_misses', 'total_inst_retired', 'br_misp_retired', 'br_inst_retired']"
+Parameters: ,"[133589, 14, 12474, 24884]"
+Attempts: ,1
+Time spent: ,21.252525329589844
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  7720.0360
+[[34mINFO[0m ] Total attack code time (ms)	: 10460.0680 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2740.0320 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     3.8175
+[[34mINFO[0m ] ========================================================================
+Run time #: ,14
+***************************************
+Selected Modules that works: ,"['cache_misses', 'br_misp_retired', 'total_inst_retired', 'br_inst_retired']"
+Parameters: ,"[75533, 9330, 27, 49980]"
+Attempts: ,5
+Time spent: ,104.3392391204834
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  6023.0810
+[[34mINFO[0m ] Total attack code time (ms)	:  8762.5940 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2739.5130 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     3.1986
+[[34mINFO[0m ] ========================================================================
+Run time #: ,15
+***************************************
+Selected Modules that works: ,"['br_misp_retired', 'cache_misses', 'br_inst_retired']"
+Parameters: ,"[49550, 127055, 29837]"
+Attempts: ,1
+Time spent: ,19.468193292617798
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  8973.0620
+[[34mINFO[0m ] Total attack code time (ms)	: 11591.5360 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2618.4740 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     4.4268
+[[34mINFO[0m ] ========================================================================
+Run time #: ,16
+***************************************
+Selected Modules that works: ,"['cache_misses', 'br_misp_retired']"
+Parameters: ,"[104485, 39289]"
+Attempts: ,1
+Time spent: ,16.519110202789307
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  6681.6760
+[[34mINFO[0m ] Total attack code time (ms)	:  9365.9540 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2684.2780 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     3.4892
+[[34mINFO[0m ] ========================================================================
+Run time #: ,17
+***************************************
+Selected Modules that works: ,"['br_misp_retired', 'br_inst_retired', 'cache_misses']"
+Parameters: ,"[28657, 23947, 89271]"
+Attempts: ,5
+Time spent: ,94.94654560089111
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  6093.9320
+[[34mINFO[0m ] Total attack code time (ms)	:  8757.6350 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2663.7030 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     3.2878
+[[34mINFO[0m ] ========================================================================
+Run time #: ,18
+***************************************
+Selected Modules that works: ,"['total_inst_retired', 'br_inst_retired', 'br_misp_retired', 'cache_misses']"
+Parameters: ,"[35, 22351, 31237, 159368]"
+Attempts: ,2
+Time spent: ,48.05093193054199
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		: 10062.0690
+[[34mINFO[0m ] Total attack code time (ms)	: 12805.3370 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2743.2680 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     4.6679
+[[34mINFO[0m ] ========================================================================
+Run time #: ,19
+***************************************
+Selected Modules that works: ,"['total_inst_retired', 'br_misp_retired', 'br_inst_retired', 'cache_misses']"
+Parameters: ,"[43, 19647, 44418, 96588]"
+Attempts: ,6
+Time spent: ,115.64277219772339
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  7260.3180
+[[34mINFO[0m ] Total attack code time (ms)	:  9989.9210 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2729.6030 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     3.6598
+[[34mINFO[0m ] ========================================================================
+Run time #: ,20
+***************************************
+Selected Modules that works: ,"['cache_misses', 'total_inst_retired', 'br_inst_retired', 'br_misp_retired']"
+Parameters: ,"[183365, 55, 36859, 43083]"
+Attempts: ,2
+Time spent: ,41.12312388420105
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		: 12360.8710
+[[34mINFO[0m ] Total attack code time (ms)	: 15115.6740 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2754.8030 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     5.4870
+[[34mINFO[0m ] ========================================================================
+Run time #: ,21
+***************************************
+Selected Modules that works: ,"['br_inst_retired', 'cache_misses']"
+Parameters: ,"[41263, 141881]"
+Attempts: ,3
+Time spent: ,45.75872611999512
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  6898.4200
+[[34mINFO[0m ] Total attack code time (ms)	:  9527.1850 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2628.7650 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     3.6242
+[[34mINFO[0m ] ========================================================================
+Run time #: ,22
+***************************************
+Selected Modules that works: ,"['br_misp_retired', 'cache_misses', 'br_inst_retired', 'total_inst_retired']"
+Parameters: ,"[45173, 55017, 24913, 10]"
+Attempts: ,2
+Time spent: ,38.24488162994385
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  6202.3850
+[[34mINFO[0m ] Total attack code time (ms)	:  8944.2380 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2741.8530 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     3.2621
+[[34mINFO[0m ] ========================================================================
+Run time #: ,23
+***************************************
+Selected Modules that works: ,"['br_inst_retired', 'br_misp_retired', 'total_inst_retired', 'cache_misses']"
+Parameters: ,"[38916, 22223, 38, 186854]"
+Attempts: ,3
+Time spent: ,58.50536751747131
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		: 11320.5080
+[[34mINFO[0m ] Total attack code time (ms)	: 14073.6740 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2753.1660 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     5.1118
+[[34mINFO[0m ] ========================================================================
+Run time #: ,24
+***************************************
+Selected Modules that works: ,"['br_misp_retired', 'br_inst_retired']"
+Parameters: ,"[6093, 36790]"
+Attempts: ,4
+Time spent: ,69.25419569015503
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  1460.5700
+[[34mINFO[0m ] Total attack code time (ms)	:  4242.2690 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2781.6990 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     1.5251
+[[34mINFO[0m ] ========================================================================
+Run time #: ,25
+***************************************
+Selected Modules that works: ,"['br_misp_retired', 'br_inst_retired']"
+Parameters: ,"[42628, 19588]"
+Attempts: ,4
+Time spent: ,60.501800775527954
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  2829.7450
+[[34mINFO[0m ] Total attack code time (ms)	:  5607.8170 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2778.0720 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     2.0186
+[[34mINFO[0m ] ========================================================================
+Run time #: ,26
+***************************************
+Selected Modules that works: ,"['br_misp_retired', 'cache_misses', 'br_inst_retired']"
+Parameters: ,"[17358, 49008, 34111]"
+Attempts: ,2
+Time spent: ,39.55918741226196
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  4366.7630
+[[34mINFO[0m ] Total attack code time (ms)	:  7048.6690 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2681.9060 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     2.6282
+[[34mINFO[0m ] ========================================================================
+Run time #: ,27
+***************************************
+Selected Modules that works: ,"['br_inst_retired', 'cache_misses', 'br_misp_retired', 'total_inst_retired']"
+Parameters: ,"[26533, 22481, 49510, 10]"
+Attempts: ,2
+Time spent: ,34.62066578865051
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  5074.2570
+[[34mINFO[0m ] Total attack code time (ms)	:  7796.5120 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2722.2550 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     2.8640
+[[34mINFO[0m ] ========================================================================
+Run time #: ,28
+***************************************
+Selected Modules that works: ,"['br_inst_retired', 'br_misp_retired']"
+Parameters: ,"[27805, 5673]"
+Attempts: ,3
+Time spent: ,58.47142148017883
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  1156.3320
+[[34mINFO[0m ] Total attack code time (ms)	:  3915.4070 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2759.0750 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     1.4191
+[[34mINFO[0m ] ========================================================================
+Run time #: ,29
+***************************************
+Selected Modules that works: ,"['cache_misses', 'br_inst_retired']"
+Parameters: ,"[158668, 45379]"
+Attempts: ,7
+Time spent: ,147.62830543518066
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  7933.6330
+[[34mINFO[0m ] Total attack code time (ms)	: 10557.1410 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2623.5080 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     4.0241
+[[34mINFO[0m ] ========================================================================
+Run time #: ,30
+***************************************
+Selected Modules that works: ,"['total_inst_retired', 'br_misp_retired', 'cache_misses', 'br_inst_retired']"
+Parameters: ,"[19, 34670, 192515, 46573]"
+Attempts: ,3
+Time spent: ,73.98572397232056
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		: 12755.2270
+[[34mINFO[0m ] Total attack code time (ms)	: 15498.1520 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2742.9250 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     5.6502
+[[34mINFO[0m ] ========================================================================
