@@ -20,19 +20,30 @@ detection tools.
 
 
 ```bash
-├── Systematic_fuzzing/ # Fuzzing framework with systematic fuzzing setting
-    ├── targeted_attacks/
-        ├── Flush_Reload
-        ├── spectreV1
-        ├── spectreV2
+├── Systematic_fuzzing/ # Contains the Fuzzing framework with systematic fuzzing setting
+    ├── targeted_attacks/ # Contains the source codes of the targeted attacks
+        ├── Flush_Reload/
+        ├── spectreV1/
+        ├── spectreV2/
     ├── Tested_Detection_models/
+        ├── Model_1/
+        ├── Model_2/
+        ├── Model_3/
+        ├── Model_4/
     ├── utils/
     ├── framework.config
     ├── fuzzing_framework.py
     ├── module_tester.py
-├── Random_fuzzing/ # Fuzzing framework with random fuzzing setting
-    ├── targeted_attacks/
+├── Random_fuzzing/ # Contains the Fuzzing framework with random fuzzing setting
+    ├── targeted_attacks/ # Contains the source codes of the targeted attacks
+        ├── Flush_Reload/
+        ├── spectreV1/
+        ├── spectreV2/
     ├── Tested_Detection_models/
+        ├── Model_1/
+        ├── Model_2/
+        ├── Model_3/
+        ├── Model_4/
     ├── utils/
     ├── framework.config
     ├── fuzzing_framework.py
