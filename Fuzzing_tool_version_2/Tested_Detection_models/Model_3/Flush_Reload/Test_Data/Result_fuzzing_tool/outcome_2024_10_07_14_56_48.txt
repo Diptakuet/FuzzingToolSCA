@@ -1,0 +1,450 @@
+Run time #: ,1
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[55]
+Attempts: ,2
+Time spent: ,408.0627143383026
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   110.0940
+[[34mINFO[0m ] Total attack code time (ms)	:   121.4870 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:    11.3930 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:    10.6633
+[[34mINFO[0m ] ========================================================================
+Run time #: ,2
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[47]
+Attempts: ,1
+Time spent: ,195.54758381843567
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    94.1810
+[[34mINFO[0m ] Total attack code time (ms)	:   104.6360 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:    10.4550 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:    10.0082
+[[34mINFO[0m ] ========================================================================
+Run time #: ,3
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[38]
+Attempts: ,1
+Time spent: ,181.27413153648376
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    72.8860
+[[34mINFO[0m ] Total attack code time (ms)	:    80.9550 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:     8.0690 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:    10.0328
+[[34mINFO[0m ] ========================================================================
+Run time #: ,4
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[17]
+Attempts: ,1
+Time spent: ,184.9169692993164
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    32.9180
+[[34mINFO[0m ] Total attack code time (ms)	:    42.0790 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:     9.1610 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     4.5933
+[[34mINFO[0m ] ========================================================================
+Run time #: ,5
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[9]
+Attempts: ,1
+Time spent: ,190.18278789520264
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+62a01b3b, e60cb41b, e08000, 7524a44, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    23.5720
+[[34mINFO[0m ] Total attack code time (ms)	:    34.0470 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:    10.4750 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     3.2503
+[[34mINFO[0m ] ========================================================================
+Run time #: ,6
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[33]
+Attempts: ,1
+Time spent: ,178.11236357688904
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+290d00, 290cbb, ec290dee, ce060e56, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    82.5650
+[[34mINFO[0m ] Total attack code time (ms)	:    93.3340 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:    10.7690 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     8.6669
+[[34mINFO[0m ] ========================================================================
+Run time #: ,7
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[72]
+Attempts: ,1
+Time spent: ,179.85371899604797
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+60c, 6000600, c9ff060c, cf90bb03, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   148.5010
+[[34mINFO[0m ] Total attack code time (ms)	:   157.3570 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:     8.8560 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:    17.7684
+[[34mINFO[0m ] ========================================================================
+Run time #: ,8
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[6]
+Attempts: ,2
+Time spent: ,368.76868867874146
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+830370f, 59f57fdc, 2facb1e8, f525125, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    18.9650
+[[34mINFO[0m ] Total attack code time (ms)	:    29.4500 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:    10.4850 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     2.8088
+[[34mINFO[0m ] ========================================================================
+Run time #: ,9
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[52]
+Attempts: ,1
+Time spent: ,182.94806265830994
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   104.1580
+[[34mINFO[0m ] Total attack code time (ms)	:   117.0220 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:    12.8640 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     9.0969
+[[34mINFO[0m ] ========================================================================
+Run time #: ,10
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[6]
+Attempts: ,1
+Time spent: ,178.34882616996765
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+770faa90, 58ec1b5, 21c64af9, 721eceb2, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    33.6070
+[[34mINFO[0m ] Total attack code time (ms)	:    51.4870 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:    17.8800 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     2.8796
+[[34mINFO[0m ] ========================================================================
+Run time #: ,11
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[72]
+Attempts: ,1
+Time spent: ,179.0043969154358
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   137.3500
+[[34mINFO[0m ] Total attack code time (ms)	:   144.6870 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:     7.3370 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:    19.7202
+[[34mINFO[0m ] ========================================================================
+Run time #: ,12
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[55]
+Attempts: ,2
+Time spent: ,355.92089796066284
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   111.0390
+[[34mINFO[0m ] Total attack code time (ms)	:   120.1190 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:     9.0800 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:    13.2290
+[[34mINFO[0m ] ========================================================================
+Run time #: ,13
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[16]
+Attempts: ,2
+Time spent: ,364.57596826553345
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    37.3450
+[[34mINFO[0m ] Total attack code time (ms)	:    53.4990 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:    16.1540 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     3.3118
+[[34mINFO[0m ] ========================================================================
+Run time #: ,14
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[19]
+Attempts: ,2
+Time spent: ,374.7912895679474
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    51.0180
+[[34mINFO[0m ] Total attack code time (ms)	:    61.2640 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:    10.2460 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     5.9793
+[[34mINFO[0m ] ========================================================================
+Run time #: ,15
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[59]
+Attempts: ,1
+Time spent: ,187.90904021263123
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   118.0710
+[[34mINFO[0m ] Total attack code time (ms)	:   128.1410 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:    10.0700 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:    12.7250
+[[34mINFO[0m ] ========================================================================
+Run time #: ,16
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[19]
+Attempts: ,2
+Time spent: ,371.5071816444397
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    51.8310
+[[34mINFO[0m ] Total attack code time (ms)	:    61.8320 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:    10.0010 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     6.1826
+[[34mINFO[0m ] ========================================================================
+Run time #: ,17
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[2]
+Attempts: ,1
+Time spent: ,187.30143070220947
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+3f2af4d2, c7d2994f, 630d11c1, 3b25c482, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    12.3410
+[[34mINFO[0m ] Total attack code time (ms)	:    24.2660 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:    11.9250 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     2.0349
+[[34mINFO[0m ] ========================================================================
+Run time #: ,18
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[34]
+Attempts: ,2
+Time spent: ,370.32431745529175
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    70.4840
+[[34mINFO[0m ] Total attack code time (ms)	:    81.2170 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:    10.7330 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     7.5670
+[[34mINFO[0m ] ========================================================================
+Run time #: ,19
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[49]
+Attempts: ,1
+Time spent: ,194.74837589263916
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    93.4560
+[[34mINFO[0m ] Total attack code time (ms)	:   101.9760 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:     8.5200 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:    11.9690
+[[34mINFO[0m ] ========================================================================
+Run time #: ,20
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[46]
+Attempts: ,3
+Time spent: ,575.4093155860901
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+4f4d0c8b, ea2200a1, 11230019, 20555cd7, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    87.8220
+[[34mINFO[0m ] Total attack code time (ms)	:    96.2260 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:     8.4040 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:    11.4500
+[[34mINFO[0m ] ========================================================================
+Run time #: ,21
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[33]
+Attempts: ,1
+Time spent: ,183.44065952301025
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+600, 60c, c9000600, c96f040f, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    80.4860
+[[34mINFO[0m ] Total attack code time (ms)	:    93.0730 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:    12.5870 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     7.3944
+[[34mINFO[0m ] ========================================================================
+Run time #: ,22
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[41]
+Attempts: ,2
+Time spent: ,384.770964384079
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    78.1680
+[[34mINFO[0m ] Total attack code time (ms)	:    87.6680 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:     9.5000 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     9.2282
+[[34mINFO[0m ] ========================================================================
+Run time #: ,23
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[66]
+Attempts: ,1
+Time spent: ,185.79081439971924
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   126.0290
+[[34mINFO[0m ] Total attack code time (ms)	:   133.9650 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:     7.9360 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:    16.8807
+[[34mINFO[0m ] ========================================================================
+Run time #: ,24
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[75]
+Attempts: ,1
+Time spent: ,181.11595797538757
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+bf, c0000bf, f900bf, cf8f7bc, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   142.7120
+[[34mINFO[0m ] Total attack code time (ms)	:   152.7740 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:    10.0620 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:    15.1833
+[[34mINFO[0m ] ========================================================================
+Run time #: ,25
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[37]
+Attempts: ,1
+Time spent: ,184.06233739852905
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    75.9780
+[[34mINFO[0m ] Total attack code time (ms)	:    86.8640 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:    10.8860 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     7.9794
+[[34mINFO[0m ] ========================================================================
+Run time #: ,26
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[24]
+Attempts: ,1
+Time spent: ,181.63642859458923
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    46.1380
+[[34mINFO[0m ] Total attack code time (ms)	:    54.2660 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:     8.1280 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     6.6764
+[[34mINFO[0m ] ========================================================================
+Run time #: ,27
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[6]
+Attempts: ,1
+Time spent: ,193.15265917778015
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+d77358ad, b0487293, da82b06, 50eca755, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    12.4720
+[[34mINFO[0m ] Total attack code time (ms)	:    20.8880 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:     8.4160 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:     2.4819
+[[34mINFO[0m ] ========================================================================
+Run time #: ,28
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[77]
+Attempts: ,1
+Time spent: ,175.90818810462952
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   163.2250
+[[34mINFO[0m ] Total attack code time (ms)	:   172.1430 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:     8.9180 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:    19.3029
+[[34mINFO[0m ] ========================================================================
+Run time #: ,29
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[45]
+Attempts: ,1
+Time spent: ,180.95389533042908
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+60c, 6000600, c9ff060c, cf90bb03, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    85.9240
+[[34mINFO[0m ] Total attack code time (ms)	:    94.5520 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:     8.6280 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:    10.9587
+[[34mINFO[0m ] ========================================================================
+Run time #: ,30
+***************************************
+Selected Modules that works: ,['randomize_attack']
+Parameters: ,[73]
+Attempts: ,1
+Time spent: ,173.16163110733032
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+520c5d35, b700b874, f5007285, 742e60b9, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   149.2590
+[[34mINFO[0m ] Total attack code time (ms)	:   159.0900 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:     9.8310 (Excluding fuzzing time)
+[[34mINFO[0m ] Overhead in time (ms)		:    16.1825
+[[34mINFO[0m ] ========================================================================

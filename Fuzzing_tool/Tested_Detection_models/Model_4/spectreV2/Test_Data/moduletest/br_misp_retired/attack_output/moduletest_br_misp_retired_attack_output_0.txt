@@ -1,0 +1,11 @@
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x55deb182b008:
+COSEC{Stea?ing_data_with_Spectr?!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   937.7550
+[[34mINFO[0m ] Total attack code time (ms)	:  2628.7590 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1691.0040 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+937.7550,2628.7590,1691.0040

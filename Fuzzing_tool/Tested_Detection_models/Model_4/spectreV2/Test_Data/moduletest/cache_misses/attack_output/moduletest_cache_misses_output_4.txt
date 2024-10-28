@@ -1,0 +1,11 @@
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x55f5fb6ba008:
+COSEC{S?ealing_da?a_with_Spec?r?!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   235.5470
+[[34mINFO[0m ] Total attack code time (ms)	:  2117.4010 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1881.8540 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+235.5470,2117.4010,1881.8540

@@ -1,0 +1,6 @@
+mem-loads
+mem-stores
+DTLB-Read
+Cache Node
+DTLB access
+Total CPU cycles**

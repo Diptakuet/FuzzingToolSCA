@@ -1,0 +1,11 @@
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  2593.3810
+[[34mINFO[0m ] Total attack code time (ms)	:  5377.5890 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2784.2080 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+2593.3810,5377.5890,2784.2080

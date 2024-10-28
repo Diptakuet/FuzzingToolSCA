@@ -1,0 +1,11 @@
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x5567473e2008:
+COSEC{S?ea?i?g_?a?a_wit?????????!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   145.3440
+[[34mINFO[0m ] Total attack code time (ms)	:  1638.2290 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1492.8850 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+145.3440,1638.2290,1492.8850

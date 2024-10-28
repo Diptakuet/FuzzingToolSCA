@@ -1,0 +1,14 @@
+Run Time #: ,0
+Selected Module that works: ,br_inst_retired
+Parameter: ,25000
+Number of attempts: ,5
+Time spent: ,46.72211170196533
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   788.6580
+[[34mINFO[0m ] Total attack code time (ms)	:  3659.1480 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2870.4900 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+788.6580,3659.1480,2870.4900

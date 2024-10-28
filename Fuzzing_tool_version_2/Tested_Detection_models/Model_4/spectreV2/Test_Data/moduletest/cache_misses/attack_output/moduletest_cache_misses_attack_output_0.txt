@@ -1,0 +1,11 @@
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x5585c3860008:
+CO?EC{Stealing_d?ta_with_Sp?ct?e!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   789.7350
+[[34mINFO[0m ] Total attack code time (ms)	:  2507.4720 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1717.7370 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+789.7350,2507.4720,1717.7370

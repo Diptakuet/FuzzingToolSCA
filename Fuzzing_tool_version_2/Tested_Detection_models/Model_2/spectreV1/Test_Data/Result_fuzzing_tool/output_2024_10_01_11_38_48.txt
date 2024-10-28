@@ -1,0 +1,105 @@
+"Run Time: 1 | Module Testing: ['total_inst_retired', 'br_misp_retired', 'cache_misses'] | Parameter: [48, 24828, 87225] | Attempts: 1"
+"Run Time: 1 | Module Testing: ['total_inst_retired', 'br_inst_retired', 'cache_misses', 'br_misp_retired'] | Parameter: [58, 38727, 57874, 40126] | Attempts: 2"
+"Run Time: 1 | Module Testing: ['br_inst_retired', 'total_inst_retired', 'cache_misses', 'br_misp_retired'] | Parameter: [8653, 36, 171193, 31577] | Attempts: 3"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 2 | Module Testing: ['cache_misses', 'total_inst_retired', 'br_misp_retired', 'br_inst_retired'] | Parameter: [45384, 19, 18652, 18520] | Attempts: 1"
+"Run Time: 2 | Module Testing: ['cache_misses', 'br_misp_retired', 'total_inst_retired'] | Parameter: [91627, 45194, 44] | Attempts: 2"
+"Run Time: 2 | Module Testing: ['br_misp_retired', 'cache_misses', 'br_inst_retired', 'total_inst_retired'] | Parameter: [14361, 57527, 46811, 44] | Attempts: 3"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 3 | Module Testing: ['cache_misses', 'br_misp_retired', 'br_inst_retired', 'total_inst_retired'] | Parameter: [42756, 24222, 42334, 54] | Attempts: 1"
+"Run Time: 3 | Module Testing: ['total_inst_retired', 'cache_misses', 'br_inst_retired'] | Parameter: [65, 47097, 34989] | Attempts: 2"
+"Run Time: 3 | Module Testing: ['total_inst_retired', 'br_inst_retired', 'cache_misses', 'br_misp_retired'] | Parameter: [69, 45233, 91072, 30805] | Attempts: 3"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 4 | Module Testing: ['cache_misses', 'br_misp_retired'] | Parameter: [60945, 43612] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 5 | Module Testing: ['br_inst_retired', 'br_misp_retired', 'cache_misses'] | Parameter: [43392, 45152, 28995] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 6 | Module Testing: ['br_inst_retired', 'total_inst_retired'] | Parameter: [42961, 32] | Attempts: 1"
+"Run Time: 6 | Module Testing: ['br_inst_retired', 'total_inst_retired', 'cache_misses', 'br_misp_retired'] | Parameter: [22873, 24, 176845, 8438] | Attempts: 2"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 7 | Module Testing: ['total_inst_retired', 'br_misp_retired', 'br_inst_retired', 'cache_misses'] | Parameter: [62, 23593, 5653, 123427] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 8 | Module Testing: ['cache_misses', 'br_inst_retired', 'br_misp_retired'] | Parameter: [70518, 6996, 17088] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 9 | Module Testing: ['cache_misses', 'total_inst_retired'] | Parameter: [128588, 37] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 10 | Module Testing: ['cache_misses', 'total_inst_retired', 'br_inst_retired', 'br_misp_retired'] | Parameter: [173019, 57, 37746, 32728] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 11 | Module Testing: ['br_misp_retired', 'cache_misses', 'total_inst_retired', 'br_inst_retired'] | Parameter: [17447, 167430, 49, 17178] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 12 | Module Testing: ['br_misp_retired', 'br_inst_retired', 'cache_misses', 'total_inst_retired'] | Parameter: [34797, 25092, 133217, 21] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 13 | Module Testing: ['cache_misses', 'br_misp_retired', 'br_inst_retired', 'total_inst_retired'] | Parameter: [59923, 6999, 32843, 33] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 14 | Module Testing: ['total_inst_retired', 'br_inst_retired', 'cache_misses'] | Parameter: [20, 27245, 116005] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 15 | Module Testing: ['br_inst_retired', 'br_misp_retired'] | Parameter: [41625, 47500] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 16 | Module Testing: ['br_inst_retired', 'cache_misses', 'total_inst_retired', 'br_misp_retired'] | Parameter: [41000, 127937, 16, 41784] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 17 | Module Testing: ['total_inst_retired', 'cache_misses', 'br_inst_retired'] | Parameter: [24, 34123, 5710] | Attempts: 1"
+"Run Time: 17 | Module Testing: ['cache_misses', 'br_misp_retired'] | Parameter: [83905, 32199] | Attempts: 2"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 18 | Module Testing: ['cache_misses', 'br_inst_retired', 'total_inst_retired', 'br_misp_retired'] | Parameter: [53062, 48248, 11, 40737] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 19 | Module Testing: ['br_inst_retired', 'cache_misses', 'br_misp_retired'] | Parameter: [31578, 118022, 7141] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 20 | Module Testing: ['br_inst_retired', 'cache_misses'] | Parameter: [16897, 88163] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 21 | Module Testing: ['cache_misses', 'total_inst_retired'] | Parameter: [32079, 70] | Attempts: 1"
+"Run Time: 21 | Module Testing: ['br_misp_retired', 'br_inst_retired'] | Parameter: [37054, 46458] | Attempts: 2"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 22 | Module Testing: ['cache_misses', 'br_misp_retired', 'br_inst_retired'] | Parameter: [147661, 21701, 39037] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 23 | Module Testing: ['br_inst_retired', 'cache_misses', 'br_misp_retired'] | Parameter: [19083, 50309, 14183] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 24 | Module Testing: ['cache_misses', 'br_misp_retired', 'total_inst_retired', 'br_inst_retired'] | Parameter: [68607, 44287, 30, 9802] | Attempts: 1"
+"Run Time: 24 | Module Testing: ['cache_misses', 'total_inst_retired', 'br_misp_retired', 'br_inst_retired'] | Parameter: [133715, 39, 25199, 27089] | Attempts: 2"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 25 | Module Testing: ['total_inst_retired', 'cache_misses'] | Parameter: [16, 128538] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 26 | Module Testing: ['cache_misses', 'br_inst_retired', 'total_inst_retired', 'br_misp_retired'] | Parameter: [112166, 37085, 24, 22018] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 27 | Module Testing: ['br_inst_retired', 'cache_misses', 'br_misp_retired', 'total_inst_retired'] | Parameter: [29269, 38342, 31158, 48] | Attempts: 1"
+"Run Time: 27 | Module Testing: ['br_misp_retired', 'total_inst_retired', 'br_inst_retired'] | Parameter: [31693, 27, 48709] | Attempts: 2"
+"Run Time: 27 | Module Testing: ['br_misp_retired', 'br_inst_retired'] | Parameter: [12109, 32094] | Attempts: 3"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 28 | Module Testing: ['total_inst_retired', 'cache_misses'] | Parameter: [30, 195886] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 29 | Module Testing: ['br_misp_retired', 'cache_misses', 'total_inst_retired'] | Parameter: [35568, 126417, 39] | Attempts: 1"
+Fuzzing successful!!
+-------------------------------------------
+"Run Time: 30 | Module Testing: ['total_inst_retired', 'br_misp_retired'] | Parameter: [25, 18828] | Attempts: 1"
+"Run Time: 30 | Module Testing: ['total_inst_retired', 'cache_misses', 'br_inst_retired'] | Parameter: [59, 23119, 34574] | Attempts: 2"
+"Run Time: 30 | Module Testing: ['br_misp_retired', 'total_inst_retired', 'br_inst_retired'] | Parameter: [16949, 24, 33706] | Attempts: 3"
+"Run Time: 30 | Module Testing: ['cache_misses', 'br_misp_retired', 'br_inst_retired'] | Parameter: [58208, 10091, 8199] | Attempts: 4"
+Fuzzing successful!!
+-------------------------------------------

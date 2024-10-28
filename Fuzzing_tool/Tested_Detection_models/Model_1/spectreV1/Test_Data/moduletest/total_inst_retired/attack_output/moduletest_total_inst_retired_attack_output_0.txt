@@ -1,0 +1,9 @@
+Stealing 34 bytes:
+COSEC{Stealing_data_with_S?ectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   150.8420
+[[34mINFO[0m ] Total attack code time (ms)	:  5557.3170 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  5406.4750 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+150.8420,5557.3170,5406.4750

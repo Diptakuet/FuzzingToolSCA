@@ -1,0 +1,11 @@
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x55b8b7d5b008:
+C?SEC?Stea?i??_?ata_wi??_Spe??r?!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   225.1370
+[[34mINFO[0m ] Total attack code time (ms)	:  2630.9640 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2405.8270 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+225.1370,2630.9640,2405.8270

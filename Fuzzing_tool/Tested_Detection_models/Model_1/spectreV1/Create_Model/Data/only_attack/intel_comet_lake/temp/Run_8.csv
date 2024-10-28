@@ -1,0 +1,202 @@
+# started on Wed Feb  7 21:06:18 2024
+
+     0.100120335,208376786,,br_inst_retired.all_branches,880907564,100.00,,
+     0.100120335,628199,,br_misp_retired.all_branches,880892846,100.00,,
+     0.100120335,1460676,,cache-misses,880885706,100.00,21.632,of all cache refs
+     0.100120335,6752431,,cache-references,880875558,100.00,,
+     0.204174486,190690666,,br_inst_retired.all_branches,818550903,100.00,,
+     0.204174486,483877,,br_misp_retired.all_branches,818548420,100.00,,
+     0.204174486,663828,,cache-misses,818546089,100.00,14.360,of all cache refs
+     0.204174486,4622605,,cache-references,818545654,100.00,,
+     0.304745797,191339447,,br_inst_retired.all_branches,804567414,100.00,,
+     0.304745797,489486,,br_misp_retired.all_branches,804567929,100.00,,
+     0.304745797,658570,,cache-misses,804568360,100.00,14.213,of all cache refs
+     0.304745797,4633680,,cache-references,804568141,100.00,,
+     0.405324406,191111615,,br_inst_retired.all_branches,804741714,100.00,,
+     0.405324406,480664,,br_misp_retired.all_branches,804741566,100.00,,
+     0.405324406,622369,,cache-misses,804741588,100.00,13.772,of all cache refs
+     0.405324406,4518995,,cache-references,804741319,100.00,,
+     0.505916185,191084075,,br_inst_retired.all_branches,804565741,100.00,,
+     0.505916185,477112,,br_misp_retired.all_branches,804565600,100.00,,
+     0.505916185,596967,,cache-misses,804565157,100.00,13.317,of all cache refs
+     0.505916185,4482617,,cache-references,804565471,100.00,,
+     0.606476253,191092887,,br_inst_retired.all_branches,804447482,100.00,,
+     0.606476253,480385,,br_misp_retired.all_branches,804448477,100.00,,
+     0.606476253,615942,,cache-misses,804448416,100.00,13.634,of all cache refs
+     0.606476253,4517612,,cache-references,804448603,100.00,,
+     0.707035555,191080072,,br_inst_retired.all_branches,804481912,100.00,,
+     0.707035555,494010,,br_misp_retired.all_branches,804481570,100.00,,
+     0.707035555,672749,,cache-misses,804481666,100.00,14.119,of all cache refs
+     0.707035555,4764925,,cache-references,804481449,100.00,,
+     0.807598975,194287238,,br_inst_retired.all_branches,804476819,100.00,,
+     0.807598975,554213,,br_misp_retired.all_branches,804475909,100.00,,
+     0.807598975,836633,,cache-misses,804476053,100.00,15.974,of all cache refs
+     0.807598975,5237335,,cache-references,804476074,100.00,,
+     0.908229860,191294600,,br_inst_retired.all_branches,805174274,100.00,,
+     0.908229860,488566,,br_misp_retired.all_branches,805174448,100.00,,
+     0.908229860,670421,,cache-misses,805174921,100.00,14.338,of all cache refs
+     0.908229860,4675715,,cache-references,805175453,100.00,,
+     1.008805886,190991054,,br_inst_retired.all_branches,804428539,100.00,,
+     1.008805886,475236,,br_misp_retired.all_branches,804428078,100.00,,
+     1.008805886,591586,,cache-misses,804427826,100.00,13.307,of all cache refs
+     1.008805886,4445734,,cache-references,804427230,100.00,,
+     1.109353930,191474579,,br_inst_retired.all_branches,804217149,100.00,,
+     1.109353930,490365,,br_misp_retired.all_branches,804218177,100.00,,
+     1.109353930,654806,,cache-misses,804218403,100.00,13.936,of all cache refs
+     1.109353930,4698596,,cache-references,804218841,100.00,,
+     1.209845489,191035929,,br_inst_retired.all_branches,804141860,100.00,,
+     1.209845489,474422,,br_misp_retired.all_branches,804141860,100.00,,
+     1.209845489,642971,,cache-misses,804141647,100.00,14.060,of all cache refs
+     1.209845489,4573145,,cache-references,804141307,100.00,,
+     1.310399389,191300917,,br_inst_retired.all_branches,804407475,100.00,,
+     1.310399389,476953,,br_misp_retired.all_branches,804407236,100.00,,
+     1.310399389,634763,,cache-misses,804406614,100.00,13.845,of all cache refs
+     1.310399389,4584733,,cache-references,804406714,100.00,,
+     1.410940425,191110981,,br_inst_retired.all_branches,804346251,100.00,,
+     1.410940425,471802,,br_misp_retired.all_branches,804346327,100.00,,
+     1.410940425,622506,,cache-misses,804346566,100.00,13.701,of all cache refs
+     1.410940425,4543539,,cache-references,804347056,100.00,,
+     1.511509329,191216891,,br_inst_retired.all_branches,804347427,100.00,,
+     1.511509329,475711,,br_misp_retired.all_branches,804346631,100.00,,
+     1.511509329,673828,,cache-misses,804346400,100.00,14.786,of all cache refs
+     1.511509329,4557294,,cache-references,804346222,100.00,,
+     1.611843617,204689418,,br_inst_retired.all_branches,802922528,100.00,,
+     1.611843617,553012,,br_misp_retired.all_branches,802924013,100.00,,
+     1.611843617,1252071,,cache-misses,802925420,100.00,22.058,of all cache refs
+     1.611843617,5676160,,cache-references,802925246,100.00,,
+     1.712400448,190976951,,br_inst_retired.all_branches,804341886,100.00,,
+     1.712400448,461657,,br_misp_retired.all_branches,804341506,100.00,,
+     1.712400448,735159,,cache-misses,804340266,100.00,16.623,of all cache refs
+     1.712400448,4422496,,cache-references,804339989,100.00,,
+     1.812927574,191098698,,br_inst_retired.all_branches,804309826,100.00,,
+     1.812927574,458495,,br_misp_retired.all_branches,804309441,100.00,,
+     1.812927574,655695,,cache-misses,804309338,100.00,14.984,of all cache refs
+     1.812927574,4375974,,cache-references,804309217,100.00,,
+     1.913486641,191132895,,br_inst_retired.all_branches,804446240,100.00,,
+     1.913486641,451455,,br_misp_retired.all_branches,804445657,100.00,,
+     1.913486641,632130,,cache-misses,804445772,100.00,14.875,of all cache refs
+     1.913486641,4249612,,cache-references,804445781,100.00,,
+     2.014049245,190990747,,br_inst_retired.all_branches,804484880,100.00,,
+     2.014049245,453314,,br_misp_retired.all_branches,804485512,100.00,,
+     2.014049245,657500,,cache-misses,804485811,100.00,15.337,of all cache refs
+     2.014049245,4287039,,cache-references,804485863,100.00,,
+     2.114612453,191472460,,br_inst_retired.all_branches,804504714,100.00,,
+     2.114612453,462221,,br_misp_retired.all_branches,804505269,100.00,,
+     2.114612453,652490,,cache-misses,804504834,100.00,14.782,of all cache refs
+     2.114612453,4414115,,cache-references,804504866,100.00,,
+     2.215153896,193313461,,br_inst_retired.all_branches,804365056,100.00,,
+     2.215153896,552553,,br_misp_retired.all_branches,804364507,100.00,,
+     2.215153896,882851,,cache-misses,804365125,100.00,16.560,of all cache refs
+     2.215153896,5331279,,cache-references,804366096,100.00,,
+     2.315710782,191311562,,br_inst_retired.all_branches,804245059,100.00,,
+     2.315710782,486895,,br_misp_retired.all_branches,804245471,100.00,,
+     2.315710782,622736,,cache-misses,804245354,100.00,13.418,of all cache refs
+     2.315710782,4641156,,cache-references,804244700,100.00,,
+     2.416214322,192592853,,br_inst_retired.all_branches,803905777,100.00,,
+     2.416214322,484130,,br_misp_retired.all_branches,803906021,100.00,,
+     2.416214322,759878,,cache-misses,803906271,100.00,16.254,of all cache refs
+     2.416214322,4674903,,cache-references,803906045,100.00,,
+     2.516711483,191279074,,br_inst_retired.all_branches,803978021,100.00,,
+     2.516711483,462084,,br_misp_retired.all_branches,803978112,100.00,,
+     2.516711483,704506,,cache-misses,803978413,100.00,15.779,of all cache refs
+     2.516711483,4464919,,cache-references,803979270,100.00,,
+     2.617130074,190999499,,br_inst_retired.all_branches,803219390,100.00,,
+     2.617130074,490117,,br_misp_retired.all_branches,803219119,100.00,,
+     2.617130074,647114,,cache-misses,803219584,100.00,13.783,of all cache refs
+     2.617130074,4695115,,cache-references,803219615,100.00,,
+     2.717576512,191242648,,br_inst_retired.all_branches,803931923,100.00,,
+     2.717576512,490830,,br_misp_retired.all_branches,803932026,100.00,,
+     2.717576512,668325,,cache-misses,803930691,100.00,14.204,of all cache refs
+     2.717576512,4705029,,cache-references,803929700,100.00,,
+     2.818121263,191136476,,br_inst_retired.all_branches,804414073,100.00,,
+     2.818121263,484302,,br_misp_retired.all_branches,804412963,100.00,,
+     2.818121263,624592,,cache-misses,804412839,100.00,13.429,of all cache refs
+     2.818121263,4651087,,cache-references,804412691,100.00,,
+     2.918622630,242956359,,br_inst_retired.all_branches,847335963,100.00,,
+     2.918622630,1162283,,br_misp_retired.all_branches,847337521,100.00,,
+     2.918622630,1406680,,cache-misses,847338471,100.00,9.871,of all cache refs
+     2.918622630,14250298,,cache-references,847339918,100.00,,
+     3.025358448,192147402,,br_inst_retired.all_branches,810720026,100.00,,
+     3.025358448,557386,,br_misp_retired.all_branches,810719430,100.00,,
+     3.025358448,1118724,,cache-misses,810718661,100.00,16.945,of all cache refs
+     3.025358448,6602248,,cache-references,810717415,100.00,,
+     3.125937244,203222387,,br_inst_retired.all_branches,804523689,100.00,,
+     3.125937244,538646,,br_misp_retired.all_branches,804523393,100.00,,
+     3.125937244,1231651,,cache-misses,804523600,100.00,21.512,of all cache refs
+     3.125937244,5725486,,cache-references,804523700,100.00,,
+     3.226497798,189440394,,br_inst_retired.all_branches,804471842,100.00,,
+     3.226497798,436386,,br_misp_retired.all_branches,804471442,100.00,,
+     3.226497798,659272,,cache-misses,804471216,100.00,15.689,of all cache refs
+     3.226497798,4202187,,cache-references,804471425,100.00,,
+     3.327055719,189134907,,br_inst_retired.all_branches,804436266,100.00,,
+     3.327055719,426168,,br_misp_retired.all_branches,804436306,100.00,,
+     3.327055719,590529,,cache-misses,804436414,100.00,14.469,of all cache refs
+     3.327055719,4081274,,cache-references,804436362,100.00,,
+     3.427605463,189026290,,br_inst_retired.all_branches,804399657,100.00,,
+     3.427605463,435683,,br_misp_retired.all_branches,804399674,100.00,,
+     3.427605463,616742,,cache-misses,804399282,100.00,14.745,of all cache refs
+     3.427605463,4182597,,cache-references,804399151,100.00,,
+     3.528160575,190871069,,br_inst_retired.all_branches,804355781,100.00,,
+     3.528160575,478690,,br_misp_retired.all_branches,804355743,100.00,,
+     3.528160575,642644,,cache-misses,804355961,100.00,14.085,of all cache refs
+     3.528160575,4562710,,cache-references,804356155,100.00,,
+     3.628705841,191831726,,br_inst_retired.all_branches,804373636,100.00,,
+     3.628705841,500904,,br_misp_retired.all_branches,804373610,100.00,,
+     3.628705841,797411,,cache-misses,804373767,100.00,16.232,of all cache refs
+     3.628705841,4912725,,cache-references,804373477,100.00,,
+     3.729319406,193524157,,br_inst_retired.all_branches,804723945,100.00,,
+     3.729319406,513396,,br_misp_retired.all_branches,804724552,100.00,,
+     3.729319406,949459,,cache-misses,804724943,100.00,17.451,of all cache refs
+     3.729319406,5440589,,cache-references,804725426,100.00,,
+     3.829861331,191006229,,br_inst_retired.all_branches,804661004,100.00,,
+     3.829861331,475489,,br_misp_retired.all_branches,804660643,100.00,,
+     3.829861331,657009,,cache-misses,804660060,100.00,14.573,of all cache refs
+     3.829861331,4508487,,cache-references,804659430,100.00,,
+     3.930434834,191303600,,br_inst_retired.all_branches,804423991,100.00,,
+     3.930434834,480068,,br_misp_retired.all_branches,804423439,100.00,,
+     3.930434834,647615,,cache-misses,804423546,100.00,14.056,of all cache refs
+     3.930434834,4607331,,cache-references,804424217,100.00,,
+     4.030982822,190881568,,br_inst_retired.all_branches,804434979,100.00,,
+     4.030982822,469414,,br_misp_retired.all_branches,804435097,100.00,,
+     4.030982822,602537,,cache-misses,804435320,100.00,13.576,of all cache refs
+     4.030982822,4438352,,cache-references,804434509,100.00,,
+     4.131535818,189170449,,br_inst_retired.all_branches,804560277,100.00,,
+     4.131535818,456414,,br_misp_retired.all_branches,804561080,100.00,,
+     4.131535818,625386,,cache-misses,804561258,100.00,14.519,of all cache refs
+     4.131535818,4307330,,cache-references,804561397,100.00,,
+     4.232096362,188357057,,br_inst_retired.all_branches,804459768,100.00,,
+     4.232096362,431829,,br_misp_retired.all_branches,804459187,100.00,,
+     4.232096362,600038,,cache-misses,804458603,100.00,14.605,of all cache refs
+     4.232096362,4108328,,cache-references,804458951,100.00,,
+     4.332630790,187290453,,br_inst_retired.all_branches,804194019,100.00,,
+     4.332630790,328057,,br_misp_retired.all_branches,804193978,100.00,,
+     4.332630790,379424,,cache-misses,804194375,100.00,16.049,of all cache refs
+     4.332630790,2364217,,cache-references,804194903,100.00,,
+     4.433173902,186875259,,br_inst_retired.all_branches,804316501,100.00,,
+     4.433173902,232796,,br_misp_retired.all_branches,804314611,100.00,,
+     4.433173902,219267,,cache-misses,804312830,100.00,28.809,of all cache refs
+     4.433173902,761098,,cache-references,804310540,100.00,,
+     4.533693881,186524230,,br_inst_retired.all_branches,804205535,100.00,,
+     4.533693881,241539,,br_misp_retired.all_branches,804206959,100.00,,
+     4.533693881,242597,,cache-misses,804207877,100.00,26.678,of all cache refs
+     4.533693881,909342,,cache-references,804208720,100.00,,
+     4.634225473,201290782,,br_inst_retired.all_branches,804248271,100.00,,
+     4.634225473,347835,,br_misp_retired.all_branches,804249106,100.00,,
+     4.634225473,707365,,cache-misses,804249719,100.00,29.221,of all cache refs
+     4.634225473,2420759,,cache-references,804250772,100.00,,
+     4.734763225,186967296,,br_inst_retired.all_branches,804230540,100.00,,
+     4.734763225,237705,,br_misp_retired.all_branches,804227899,100.00,,
+     4.734763225,222960,,cache-misses,804225913,100.00,26.642,of all cache refs
+     4.734763225,836860,,cache-references,804223941,100.00,,
+     4.835276055,186857404,,br_inst_retired.all_branches,804029644,100.00,,
+     4.835276055,228142,,br_misp_retired.all_branches,804029459,100.00,,
+     4.835276055,197910,,cache-misses,804029278,100.00,28.134,of all cache refs
+     4.835276055,703455,,cache-references,804028653,100.00,,
+     4.935779100,186897251,,br_inst_retired.all_branches,804048247,100.00,,
+     4.935779100,233174,,br_misp_retired.all_branches,804048022,100.00,,
+     4.935779100,195647,,cache-misses,804048206,100.00,25.239,of all cache refs
+     4.935779100,775186,,cache-references,804048434,100.00,,
+     5.001020521,121404851,,br_inst_retired.all_branches,522010878,100.00,,
+     5.001020521,152673,,br_misp_retired.all_branches,522010968,100.00,,
+     5.001020521,135574,,cache-misses,522010861,100.00,25.934,of all cache refs
+     5.001020521,522774,,cache-references,522010907,100.00,,

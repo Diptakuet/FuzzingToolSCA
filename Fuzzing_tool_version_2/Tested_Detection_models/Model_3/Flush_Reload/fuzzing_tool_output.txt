@@ -1,0 +1,22 @@
+Measurement 1:
+
+!!!!!!!!!Fuzzing Successfull!!!!!!!!
+2024-06-20 05:05:01.310 | INFO     | __main__:<module>:66 - !!!!!!!!!!!!!!Fuzzing Completed!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+2024-06-20 05:05:01.310 | INFO     | __main__:<module>:67 - Selected Module that works: randomize_attack
+2024-06-20 05:05:01.310 | INFO     | __main__:<module>:68 - Number of attemps   : 4
+2024-06-20 05:05:01.311 | INFO     | __main__:<module>:69 - Time spent                  : 665.13s
+
+parameter: 70
+
+export LD_LIBRARY_PATH=/home/mais_lab/openssl_098t/lib
+g++ newspy.cpp -o newspy -I/home/mais_lab/openssl_098t/include/openssl -L/home/mais_lab/openssl_098t/lib -lcrypto -lpapi -Wno-deprecated-declarations
+0, 0, 0, 10203, 
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:     0.0000
+[[34mINFO[0m ] Total attack code time (ms)	:   149.4540 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:   149.4540 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+0.0000,149.4540,149.4540

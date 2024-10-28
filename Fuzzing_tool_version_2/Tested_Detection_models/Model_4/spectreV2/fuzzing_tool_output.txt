@@ -1,0 +1,124 @@
+Measurement: 1
+
+!!!!!!!!!Fuzzing Successfull!!!!!!!!
+2024-06-20 00:58:10.812 | INFO     | __main__:<module>:59 - !!!!!!!!!!!!!!Fuzzing Completed!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+2024-06-20 00:58:10.812 | INFO     | __main__:<module>:60 - Selected Module that works: cache_misses
+2024-06-20 00:58:10.812 | INFO     | __main__:<module>:61 - Number of attemps   : 10
+2024-06-20 00:58:10.812 | INFO     | __main__:<module>:62 - Time spent                  : 88.95s
+
+parameter: 20000
+
+
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x5604a3b4d008:
+C?S?C{Ste?????_??ta_wit?_Sp?c?r?!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   793.6880
+[[34mINFO[0m ] Total attack code time (ms)	:  2513.9090 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1720.2210 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+793.6880,2513.9090,1720.2210
+
+
+Measurement: 2
+
+!!!!!!!!!Fuzzing Successfull!!!!!!!!
+2024-06-20 01:08:48.503 | INFO     | __main__:<module>:59 - !!!!!!!!!!!!!!Fuzzing Completed!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+2024-06-20 01:08:48.504 | INFO     | __main__:<module>:60 - Selected Module that works: cache_misses
+2024-06-20 01:08:48.504 | INFO     | __main__:<module>:61 - Number of attemps   : 3
+2024-06-20 01:08:48.504 | INFO     | __main__:<module>:62 - Time spent                  : 23.07s
+
+parameter: 20000
+
+
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x55ad4788c008:
+CO?EC?Ste?ling_dat?_wit?_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   796.0930
+[[34mINFO[0m ] Total attack code time (ms)	:  2493.7090 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1697.6160 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+796.0930,2493.7090,1697.6160
+
+Measurement: 3
+!!!!!!!!!Fuzzing Successfull!!!!!!!!
+2024-06-20 01:36:03.296 | INFO     | __main__:<module>:59 - !!!!!!!!!!!!!!Fuzzing Completed!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+2024-06-20 01:36:03.296 | INFO     | __main__:<module>:60 - Selected Module that works: cache_misses
+2024-06-20 01:36:03.296 | INFO     | __main__:<module>:61 - Number of attemps   : 10
+2024-06-20 01:36:03.296 | INFO     | __main__:<module>:62 - Time spent                  : 86.59s
+
+parameter: 10000
+
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x564ba8761008:
+CO?EC{Stealing?d???_with_Spe?tre??
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   794.5710
+[[34mINFO[0m ] Total attack code time (ms)	:  2469.3180 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1674.7470 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+794.5710,2469.3180,1674.7470
+
+
+Measurement: 4
+!!!!!!!!!Fuzzing Successfull!!!!!!!!
+2024-06-20 02:16:52.063 | INFO     | __main__:<module>:59 - !!!!!!!!!!!!!!Fuzzing Completed!!!!!!!!!!!!!!!!!!!!!!!!!  
+
+
+2024-06-20 02:16:52.064 | INFO     | __main__:<module>:60 - Selected Module that works: br_inst_retired
+2024-06-20 02:16:52.064 | INFO     | __main__:<module>:61 - Number of attemps   : 2
+2024-06-20 02:16:52.064 | INFO     | __main__:<module>:62 - Time spent                  : 30.69s
+
+parameter: 500
+
+
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x5625c4cbd008:
+??SEC??t?al?ng_da?a_with_Spe?tr?!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		: 15770.9220
+[[34mINFO[0m ] Total attack code time (ms)	: 17217.7940 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1446.8720 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+15770.9220,17217.7940,1446.8720
+
+Measurement: 5
+
+!!!!!!!!!Fuzzing Successfull!!!!!!!!
+2024-06-20 03:32:08.314 | INFO     | __main__:<module>:59 - !!!!!!!!!!!!!!Fuzzing Completed!!!!!!!!!!!!!!!!!!!!!!!!!  
+
+
+2024-06-20 03:32:08.315 | INFO     | __main__:<module>:60 - Selected Module that works: br_misp_retired
+2024-06-20 03:32:08.316 | INFO     | __main__:<module>:61 - Number of attemps   : 2
+2024-06-20 03:32:08.317 | INFO     | __main__:<module>:62 - Time spent                  : 41.09s
+
+
+parameter: 500
+
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x564322044008:
+CO???{Ste??ing_dat?_?ith?Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		: 26361.2240
+[[34mINFO[0m ] Total attack code time (ms)	: 27818.3900 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1457.1660 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+26361.2240,27818.3900,1457.1660
+

@@ -1,0 +1,89 @@
+Measurement: ,0
+Selected Module that works: ,br_misp_retired
+Parameter: ,30000
+Number of attempts: ,1
+Time spent: ,8.002437829971313
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x563297f4c008:
+COSEC?Stealing_data_with_Sp?ctre?}                           	L.R.: 91.18%                  
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  1393.6990 (x1.8)
+[[34mINFO[0m ] Total attack code time (ms)	:  3090.6890 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1696.9900 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+1393.6990,3090.6890,1696.9900
+
+
+Measurement: ,1
+Selected Module that works: ,cache_misses
+Parameter: ,20000
+Number of attempts: ,2
+Time spent: ,13.659809589385986
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x563fb1150008:
+COSEC{Stealing_da??_with_Sp?ctre!}				L.R.: 91.18%  
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   789.9400 (x1.5)
+[[34mINFO[0m ] Total attack code time (ms)	:  2493.2950 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1703.3550 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+789.9400,2493.2950,1703.3550
+
+
+Measurement: ,2
+Selected Module that works: ,br_inst_retired
+Parameter: ,30000
+Number of attempts: ,1
+Time spent: ,7.200958490371704
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x55a901074008:
+C??E?{St?aling_dat?_with_Spectre!}				L.R. 85.29%
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   942.7990 (x1.5)
+[[34mINFO[0m ] Total attack code time (ms)	:  2676.7540 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1733.9550 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+942.7990,2676.7540,1733.9550
+
+
+
+Measurement: ,3
+Selected Module that works: ,cache_misses
+Parameter: ,20000
+Number of attempts: ,2
+Time spent: ,13.754833936691284
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x565505dcd008:
+COSE?{?tealing_data_with_Spectre!}				L.R. 94.12%
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   800.3030 (x1.5)
+[[34mINFO[0m ] Total attack code time (ms)	:  2521.4180 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  1721.1150 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+800.3030,2521.4180,1721.1150
+
+
+Measurement: ,4
+Selected Module that works: ,total_inst_retired
+Parameter: ,20
+Number of attempts: ,2
+Time spent: ,13.777405500411987
+rm -f get_pid
+gcc -o get_pid get_pid.c -lpthread
+Reading 34 bytes starting at 0x563c77964008:
+COSEC{S?ea?i?g_?a?a_wi?h_Spec?r?!}				76.47%
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:    78.8990 (x1.1)
+[[34mINFO[0m ] Total attack code time (ms)	:   927.9980 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:   849.0990 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+78.8990,927.9980,849.0990

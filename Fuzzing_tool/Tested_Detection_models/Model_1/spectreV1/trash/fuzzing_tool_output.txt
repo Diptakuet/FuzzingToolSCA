@@ -1,0 +1,163 @@
+Measurement:1
+
+!!!!!!!!!Fuzzing Successfull!!!!!!!!
+2024-06-20 13:47:43.906 | INFO     | __main__:<module>:66 - !!!!!!!!!!!!!!Fuzzing Completed!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+2024-06-20 13:47:43.907 | INFO     | __main__:<module>:67 - Selected Module that works: br_misp_retired
+2024-06-20 13:47:43.907 | INFO     | __main__:<module>:68 - Number of attemps   : 3
+2024-06-20 13:47:43.908 | INFO     | __main__:<module>:69 - Time spent                  : 152.76s
+
+
+parameter: 1000
+
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		: 101324.2340
+[[34mINFO[0m ] Total attack code time (ms)	: 103626.1540 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2301.9200 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+101324.2340,103626.1540,2301.9200
+
+
+
+Measurement:2
+
+!!!!!!!!!Fuzzing Successfull!!!!!!!!
+2024-06-20 14:02:54.972 | INFO     | __main__:<module>:66 - !!!!!!!!!!!!!!Fuzzing Completed!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+2024-06-20 14:02:54.973 | INFO     | __main__:<module>:67 - Selected Module that works: total_inst_retired       
+2024-06-20 14:02:54.974 | INFO     | __main__:<module>:68 - Number of attemps   : 6
+2024-06-20 14:02:54.975 | INFO     | __main__:<module>:69 - Time spent                  : 74.31s
+
+
+parameter: 50
+
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   136.3120
+[[34mINFO[0m ] Total attack code time (ms)	:  5085.8000 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  4949.4880 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+136.3120,5085.8000,4949.4880
+
+
+Measurement:3
+
+!!!!!!!!!Fuzzing Successfull!!!!!!!!
+2024-06-20 14:13:27.780 | INFO     | __main__:<module>:66 - !!!!!!!!!!!!!!Fuzzing Completed!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+2024-06-20 14:13:27.781 | INFO     | __main__:<module>:67 - Selected Module that works: br_misp_retired
+2024-06-20 14:13:27.781 | INFO     | __main__:<module>:68 - Number of attemps   : 17
+2024-06-20 14:13:27.782 | INFO     | __main__:<module>:69 - Time spent                  : 499.16s
+
+parameter: 1000
+
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		: 105089.8690
+[[34mINFO[0m ] Total attack code time (ms)	: 107439.0300 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2349.1610 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+105089.8690,107439.0300,2349.1610
+
+
+Measurement:4
+!!!!!!!!!Fuzzing Successfull!!!!!!!!
+2024-06-20 14:27:11.107 | INFO     | __main__:<module>:66 - !!!!!!!!!!!!!!Fuzzing Completed!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+2024-06-20 14:27:11.107 | INFO     | __main__:<module>:67 - Selected Module that works: br_misp_retired
+2024-06-20 14:27:11.107 | INFO     | __main__:<module>:68 - Number of attemps   : 8
+2024-06-20 14:27:11.107 | INFO     | __main__:<module>:69 - Time spent                  : 655.43s
+
+parameter: 1500
+
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		: 243567.1330
+[[34mINFO[0m ] Total attack code time (ms)	: 245974.2310 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2407.0980 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+243567.1330,245974.2310,2407.0980
+
+
+
+Measurement: 5
+!!!!!!!!!Fuzzing Successfull!!!!!!!!
+2024-06-20 14:51:33.530 | INFO     | __main__:<module>:66 - !!!!!!!!!!!!!!Fuzzing Completed!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+2024-06-20 14:51:33.531 | INFO     | __main__:<module>:67 - Selected Module that works: total_inst_retired       
+2024-06-20 14:51:33.532 | INFO     | __main__:<module>:68 - Number of attemps   : 11
+2024-06-20 14:51:33.532 | INFO     | __main__:<module>:69 - Time spent                  : 327.55s
+
+parameter: 60
+
+Stealing 34 bytes:
+COSEC{Steali?g_data_with_S?ectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:   156.5030
+[[34mINFO[0m ] Total attack code time (ms)	:  5765.7590 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  5609.2560 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+156.5030,5765.7590,5609.2560
+
+Measurement: 6
+!!!!!!!!!Fuzzing Successfull!!!!!!!!
+2024-06-20 14:57:32.279 | INFO     | __main__:<module>:66 - !!!!!!!!!!!!!!Fuzzing Completed!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+2024-06-20 14:57:32.280 | INFO     | __main__:<module>:67 - Selected Module that works: cache_misses
+2024-06-20 14:57:32.280 | INFO     | __main__:<module>:68 - Number of attemps   : 10
+2024-06-20 14:57:32.281 | INFO     | __main__:<module>:69 - Time spent                  : 106.64s
+
+
+parameter: 90000
+
+
+ Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		:  3733.9880
+[[34mINFO[0m ] Total attack code time (ms)	:  6421.5080 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2687.5200 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+3733.9880,6421.5080,2687.5200
+
+
+
+Measurement: 7
+
+!!!!!!!!!Fuzzing Successfull!!!!!!!!
+2024-06-20 15:58:28.996 | INFO     | __main__:<module>:66 - !!!!!!!!!!!!!!Fuzzing Completed!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+2024-06-20 15:58:28.997 | INFO     | __main__:<module>:67 - Selected Module that works: br_misp_retired
+2024-06-20 15:58:28.998 | INFO     | __main__:<module>:68 - Number of attemps                                 : 3
+2024-06-20 15:58:28.998 | INFO     | __main__:<module>:69 - Time spent                                        : 155.37s  
+
+parameter: 1000
+
+Stealing 34 bytes:
+COSEC{Stealing_data_with_Spectre!}
+[[34mINFO[0m ] ============================== Profilling ==============================
+[[34mINFO[0m ] Total fuzzing time (ms)		: 103069.4200
+[[34mINFO[0m ] Total attack code time (ms)	: 105366.8640 (Including fuzzing time)
+[[34mINFO[0m ] Total attack code time (ms)	:  2297.4440 (Excluding fuzzing time)
+[[34mINFO[0m ] ========================================================================
+For framework:
+103069.4200,105366.8640,2297.4440
+
