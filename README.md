@@ -7,4 +7,7 @@ code. The purpose is to manipulate the targeted HPCs by modifying the source cod
 detection tools. 
 
 ## Fuzzing Framework Architecture
-![Framework_Diagram_V2](https://github.com/user-attachments/assets/1a2b5278-da6a-4f45-acf1-ca27c935c2b2)
+<p align="center">
+  <img src="Framework_Diagram_V2.png" width="350" title="Fuzzing Framework">
+</p>
+
