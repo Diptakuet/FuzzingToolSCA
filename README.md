@@ -32,7 +32,7 @@ detection tools.
         ├── Model_4/
     ├── utils/
     ├── framework.config
-    ├── fuzzing_framework.py
+    ├── fuzzing_framework.py # main file
     ├── module_tester.py
 ├── Random_fuzzing/ # Contains the Fuzzing framework with random fuzzing setting
     ├── targeted_attacks/ # Contains the source codes of the targeted attacks
@@ -46,7 +46,7 @@ detection tools.
         ├── Model_4/
     ├── utils/
     ├── framework.config
-    ├── fuzzing_framework.py
+    ├── fuzzing_framework.py  # main file
     ├── module_tester.py
 ```
 
