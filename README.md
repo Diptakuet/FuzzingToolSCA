@@ -25,6 +25,8 @@ model_name=...    # e.g., Model_1
 attack_name=...   # e.g., spectreV1
 HPC_FRAMEWORK=... # e.g., perf
 ```
+Fill in the missing parts (`...`) with the appropriate values.
+
 ### Requirements
 
 
