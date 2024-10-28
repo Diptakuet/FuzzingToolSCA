@@ -8,6 +8,6 @@ detection tools.
 
 ## Fuzzing Framework Architecture
 <p align="center">
-  <img src="Framework_Diagram_V2.png" width="350" title="Fuzzing Framework">
+  <img src="Framework_Diagram_V2.png" width="500" title="Fuzzing Framework">
 </p>
 
