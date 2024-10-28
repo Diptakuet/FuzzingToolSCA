@@ -22,6 +22,9 @@ detection tools.
 ```bash
 ├── Systematic_fuzzing/ # Fuzzing framework with systematic fuzzing setting
     ├── targeted_attacks/
+        ├── Flush_Reload
+        ├── spectreV1
+        ├── spectreV2
     ├── Tested_Detection_models/
     ├── utils/
     ├── framework.config
