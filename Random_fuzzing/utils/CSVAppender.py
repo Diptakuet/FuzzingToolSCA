@@ -1,15 +1,20 @@
 ###############################################################################################
-#  
+#
+#  CSVAppender.py: This class is used to add a column to a csv.  
+#
 #  Created by: Jonathan Tan (jona1115@iastate.edu)
 #  Date      : 2/20/2024
 #  
 ###########################################################################################
 #  
-#  CSVAppender.py: This class is used to add a column to a csv.
-#  
-#  Revision 1 (x/x/xxxx):
-#  
+#  MODIFICATION HISTORY:
+# 
+#  Ver          Who       Date	      Changes
+#  -----        --------- ---------- ----------------------------------------------
+#  1.00         Jonathan  2/20/2024  Created the file
+# 
 ###############################################################################################
+
 
 # Library imports
 from loguru import logger
