@@ -29,7 +29,8 @@ Fill in the missing parts (`...`) with the appropriate values.
 
 
 ## Implementation
-
+Choose one of the settings: Systematic_fuzzing or Random_fuzzing.
+Run the python main file after creating the ```framework.config``` file.
 
 ```bash
 ├── Systematic_fuzzing/ # Contains the Fuzzing framework with systematic fuzzing setting
