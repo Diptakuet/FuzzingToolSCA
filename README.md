@@ -29,7 +29,9 @@ Fill in the missing parts (`...`) with the appropriate values.
 
 
 ## Implementation
-Choose one of the settings: Systematic_fuzzing or Random_fuzzing.
+Choose one of the settings: 
+[] Systematic_fuzzing 
+[] Random_fuzzing
 Run the python main file after creating the ```framework.config``` file.
 
 ```bash
@@ -47,6 +49,8 @@ Run the python main file after creating the ```framework.config``` file.
     ├── framework.config
     ├── fuzzing_framework.py # main file
     ├── module_tester.py
+
+
 ├── Random_fuzzing/ # Contains the Fuzzing framework with random fuzzing setting
     ├── targeted_attacks/ # Contains the source codes of the targeted attacks
         ├── Flush_Reload/
