@@ -27,8 +27,6 @@ HPC_FRAMEWORK=... # e.g., perf, PAPI
 ```
 Fill in the missing parts (`...`) with the appropriate values.
 
-### Requirements
-
 
 ## Implementation
 
