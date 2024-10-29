@@ -32,6 +32,7 @@ Fill in the missing parts (`...`) with the appropriate values.
 Choose one of the settings: 
 - [ ] Systematic_fuzzing 
 - [ ] Random_fuzzing
+
 Run the python main file after creating the ```framework.config``` file.
 
 ```bash
