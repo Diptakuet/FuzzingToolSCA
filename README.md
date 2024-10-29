@@ -21,9 +21,9 @@ Create a `framework.config` file in the same directory as the `fuzzing_framework
 ssh_host=... 
 ssh_username=...
 ssh_password=...
-model_name=...    # e.g., Model_1
-attack_name=...   # e.g., spectreV1
-HPC_FRAMEWORK=... # e.g., perf
+model_name=...    # e.g., Model_1, Model_2, Model_3, Model_4
+attack_name=...   # e.g., spectreV1, spectreV2, Flush_Reload
+HPC_FRAMEWORK=... # e.g., perf, PAPI
 ```
 Fill in the missing parts (`...`) with the appropriate values.
 
