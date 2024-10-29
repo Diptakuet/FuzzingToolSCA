@@ -21,17 +21,19 @@ Create a `framework.config` file in the same directory as the `fuzzing_framework
 ssh_host=... 
 ssh_username=...
 ssh_password=...
-model_name=...    # e.g., Model_1
-attack_name=...   # e.g., spectreV1
-HPC_FRAMEWORK=... # e.g., perf
+model_name=...    # e.g., Model_1, Model_2, Model_3, Model_4
+attack_name=...   # e.g., spectreV1, spectreV2, Flush_Reload
+HPC_FRAMEWORK=... # e.g., perf, PAPI
 ```
 Fill in the missing parts (`...`) with the appropriate values.
 
-### Requirements
-
 
 ## Implementation
+Choose one of the settings: 
+- [ ] Systematic_fuzzing 
+- [ ] Random_fuzzing
 
+Run the python main file after creating the ```framework.config``` file.
 
 ```bash
 ├── Systematic_fuzzing/ # Contains the Fuzzing framework with systematic fuzzing setting
@@ -48,6 +50,8 @@ Fill in the missing parts (`...`) with the appropriate values.
     ├── framework.config
     ├── fuzzing_framework.py # main file
     ├── module_tester.py
+
+
 ├── Random_fuzzing/ # Contains the Fuzzing framework with random fuzzing setting
     ├── targeted_attacks/ # Contains the source codes of the targeted attacks
         ├── Flush_Reload/
